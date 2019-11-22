@@ -3,6 +3,7 @@
 
 # ignore Rhinoceros backup file
 *.3dmbak
+*.rhl
 
 #ignore folder
 basic_algorythms/
