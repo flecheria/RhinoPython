@@ -1,0 +1,11 @@
+# ignore system files
+.DS_store
+
+# ignore Rhinoceros backup file
+*.3dmbak
+
+#ignore folder
+basic_algorythms/
+gh_rhinopython/
+math_numerics_lib/
+using_math_numerics/
