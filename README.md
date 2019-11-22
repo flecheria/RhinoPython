@@ -1,6 +1,6 @@
-# Learning material from Design Optioneering @POLIMI and other workshops
+# Learning material from Design Optioneering course @POLIMI and other workshops
 
-I was lucky to have the possibility to collaborate in different occasions with the people running the Design Optioneering course ([Andrea Vanossi](https://www.linkedin.com/in/andrea-vanossi-9bb21441/?originalSubdomain=it), [I'm an inline-style link](https://www.google.com), [I'm an inline-style link](https://www.google.com)) to held some workshops around Python programming in Rhinoceros. It's always a great pleasure to introduce other people to the possibilities of computational design and also an oppurtunity to revise my own knowledge of the topic.
+I was lucky to have the possibility to collaborate in different occasions with the people running the Design Optioneering course ([Andrea Vanossi](https://www.linkedin.com/in/andrea-vanossi-9bb21441/?originalSubdomain=it), [Matteo Pedrana](https://www.linkedin.com/in/matteo-pedrana-52274a83/?originalSubdomain=it), [Leandro Robutti](https://www.linkedin.com/in/leandrorobutti/?originalSubdomain=it)) to held some workshops around Python programming in Rhinoceros. It's always a great pleasure to introduce other people to the possibilities of computational design and also an oppurtunity to revise my own knowledge of the topic.
 During the last edition, we decided to publish the material on github to make it available for past, current and future students. The idea is to have a place where came back and find help or some easy examples to start. And here it is.
 
 The scripts are mainly for use inside Rhinoceros, but they also have some information helpful for general Python use.
@@ -13,6 +13,9 @@ Enjoy!
 McNeel resources for RhinoPython
 - (https://developer.rhino3d.com/guides/rhinopython/what-is-rhinopython/)
 - (https://developer.rhino3d.com/guides/rhinopython/)
+
+Design Optioneering course @POLIMI
+- http://www.ccsbae.polimi.it/myportfolio/design-optioneering/
 
 Information about IronPython etc:
 - https://ironpython.net/
@@ -27,10 +30,13 @@ Other info
 About Python documentation
 Built-in Functions
 - https://docs.python.org/2/library/functions.html
+
 Math functions
 - https://docs.python.org/2/library/math.html
+
 Decimal precision
 - https://docs.python.org/2/library/decimal.html
+
 Random Numbers
 - https://docs.python.org/2/library/random.html
 
