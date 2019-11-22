@@ -1,6 +1,6 @@
 # Learning material from Design Optioneering @POLIMI and other workshops
 
-I was lucky to have the possibility to collaborate in different occasions with the people running the Design Optioneering course (Andrea Vanossi, Matteo Pedrana, Leandro Robutti) to held some workshops around Python programming in Rhinoceros. It's always a great pleasure to introduce other people to the possibilities of computational design and also an oppurtunity to revise my own knowledge of the topic.
+I was lucky to have the possibility to collaborate in different occasions with the people running the Design Optioneering course ([Andrea Vanossi](https://www.linkedin.com/in/andrea-vanossi-9bb21441/?originalSubdomain=it), [I'm an inline-style link](https://www.google.com), [I'm an inline-style link](https://www.google.com)) to held some workshops around Python programming in Rhinoceros. It's always a great pleasure to introduce other people to the possibilities of computational design and also an oppurtunity to revise my own knowledge of the topic.
 During the last edition, we decided to publish the material on github to make it available for past, current and future students. The idea is to have a place where came back and find help or some easy examples to start. And here it is.
 
 The scripts are mainly for use inside Rhinoceros, but they also have some information helpful for general Python use.
